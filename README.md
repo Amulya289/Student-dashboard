@@ -7,6 +7,8 @@ STUDENT DASHBOARD
     > Recent activity
     > Notification area
     > Mobile first design
+    > web appliaction
+    
 
  BUILT WITH
    HTML
